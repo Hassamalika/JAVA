@@ -8,3 +8,4 @@ def add(a: int, b: int) -> int:
 
 
 z = add(x, y)
+zz = add(3, 4)
